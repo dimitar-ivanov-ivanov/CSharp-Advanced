@@ -1,0 +1,35 @@
+.mp4
+--Part-4.mp4 - 1396,830 kb
+--Part-0.mp4 - 1400,000 kb
+--Part-1.mp4 - 1400,000 kb
+--Part-2.mp4 - 1400,000 kb
+--Part-3.mp4 - 1400,000 kb
+--assembled.mp4 - 6996,830 kb
+--sliceMe.mp4 - 6996,830 kb
+--C Advanced - Exercise Streams - януари 2018 - Божидар Данчев.mp4 - 973132,739 kb
+--C Advanced - Streams - януари 2018 - Явор Вълчев.mp4 - 1148535,562 kb
+.txt
+--words.txt - 0,016 kb
+--result.txt - 0,029 kb
+--text.txt - 0,121 kb
+--textWithLines.txt - 0,145 kb
+--report.txt - 0,829 kb
+--reportFullSearch.txt - 3,806 kb
+.gz
+--Part-0.gz - 1374,364 kb
+--Part-4.gz - 1381,460 kb
+--Part-2.gz - 1396,979 kb
+--Part-3.gz - 1396,987 kb
+--Part-1.gz - 1399,464 kb
+.html
+--info.html - 0,152 kb
+--error.html - 0,169 kb
+--index.html - 0,260 kb
+.docx
+--03. Streams-Exercise.docx - 515,160 kb
+.jpg
+--imageCopy.jpg - 12,000 kb
+.png
+--copyMe.png - 9,136 kb
+.pptx
+--03. Streams.pptx - 3859,130 kb

@@ -1,0 +1,113 @@
+.cache
+--DesignTimeResolveAssemblyReferencesInput.cache - 6,688 kb
+--FullTraversal.csprojResolveAssemblyReference.cache - 1,877 kb
+--OddLines.csprojResolveAssemblyReference.cache - 1,877 kb
+--SlicingFile.csprojResolveAssemblyReference.cache - 1,877 kb
+--WordCount.csprojResolveAssemblyReference.cache - 1,877 kb
+--ZippingSlicedFiles.csprojResolveAssemblyReference.cache - 1,877 kb
+--CopyBinaryFile.csproj.CoreCompileInputs.cache - 0,041 kb
+--Directory.csproj.CoreCompileInputs.cache - 0,041 kb
+--DirectoryTraversal.csproj.CoreCompileInputs.cache - 0,041 kb
+--FullTraversal.csproj.CoreCompileInputs.cache - 0,041 kb
+--LineNumbers.csproj.CoreCompileInputs.cache - 0,041 kb
+--OddLines.csproj.CoreCompileInputs.cache - 0,041 kb
+--SlicingFile.csproj.CoreCompileInputs.cache - 0,041 kb
+--WordCount.csproj.CoreCompileInputs.cache - 0,041 kb
+--ZippingSlicedFiles.csproj.CoreCompileInputs.cache - 0,041 kb
+.txt
+--ZippingSlicedFiles.csproj.FileListAbsolute.txt - 0,831 kb
+--report.txt - 0,829 kb
+--FullTraversal.csproj.FileListAbsolute.txt - 0,763 kb
+--SlicingFile.csproj.FileListAbsolute.txt - 0,735 kb
+--WordCount.csproj.FileListAbsolute.txt - 0,708 kb
+--OddLines.csproj.FileListAbsolute.txt - 0,694 kb
+--CopyBinaryFile.csproj.FileListAbsolute.txt - 0,643 kb
+--LineNumbers.csproj.FileListAbsolute.txt - 0,607 kb
+--DirectoryTraversal.csproj.FileListAbsolute.txt - 0,593 kb
+--textWithLines.txt - 0,145 kb
+--text.txt - 0,121 kb
+--result.txt - 0,029 kb
+--words.txt - 0,016 kb
+.config
+--App.config - 0,185 kb
+--CopyBinaryFile.exe.config - 0,185 kb
+--Directory.exe.config - 0,185 kb
+--FullTraversal.exe.config - 0,185 kb
+--LineNumbers.exe.config - 0,185 kb
+--OddLines.exe.config - 0,185 kb
+--SlicingFile.exe.config - 0,185 kb
+--WordCount.exe.config - 0,185 kb
+--ZippingSlicedFiles.exe.config - 0,185 kb
+.mp4
+--C Advanced - Streams - януари 2018 - Явор Вълчев.mp4 - 1148535,562 kb
+--C Advanced - Exercise Streams - януари 2018 - Божидар Данчев.mp4 - 973132,739 kb
+--assembled.mp4 - 6996,830 kb
+--sliceMe.mp4 - 6996,830 kb
+--Part-0.mp4 - 1400,000 kb
+--Part-1.mp4 - 1400,000 kb
+--Part-2.mp4 - 1400,000 kb
+--Part-3.mp4 - 1400,000 kb
+--Part-4.mp4 - 1396,830 kb
+.csproj
+--ZippingSlicedFiles.csproj - 2,290 kb
+--CopyBinaryFile.csproj - 2,282 kb
+--FullTraversal.csproj - 2,280 kb
+--LineNumbers.csproj - 2,276 kb
+--SlicingFile.csproj - 2,276 kb
+--DirectoryTraversal.csproj - 2,272 kb
+--WordCount.csproj - 2,272 kb
+--OddLines.csproj - 2,271 kb
+.exe
+--Directory.exe - 7,500 kb
+--FullTraversal.exe - 7,500 kb
+--WordCount.exe - 7,000 kb
+--SlicingFile.exe - 6,000 kb
+--ZippingSlicedFiles.exe - 6,000 kb
+--LineNumbers.exe - 5,500 kb
+--CopyBinaryFile.exe - 5,000 kb
+--OddLines.exe - 5,000 kb
+.pdb
+--Directory.pdb - 15,500 kb
+--FullTraversal.pdb - 15,500 kb
+--WordCount.pdb - 15,500 kb
+--SlicingFile.pdb - 13,500 kb
+--ZippingSlicedFiles.pdb - 13,500 kb
+--CopyBinaryFile.pdb - 11,500 kb
+--LineNumbers.pdb - 11,500 kb
+--OddLines.pdb - 11,500 kb
+.cs
+--AssemblyInfo.cs - 1,401 kb
+--Program.cs - 1,031 kb
+--TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - 0,000 kb
+--TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - 0,000 kb
+--TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - 0,000 kb
+.gz
+--Part-1.gz - 1399,464 kb
+--Part-3.gz - 1396,987 kb
+--Part-2.gz - 1396,979 kb
+--Part-4.gz - 1381,460 kb
+--Part-0.gz - 1374,364 kb
+.html
+--index.html - 0,260 kb
+--error.html - 0,169 kb
+--info.html - 0,152 kb
+.docx
+--03. Streams-Exercise.docx - 515,160 kb
+.ide
+--storage.ide - 476,000 kb
+.ide-shm
+--storage.ide-shm - 32,000 kb
+.ide-wal
+--storage.ide-wal - 631,711 kb
+.jpg
+--imageCopy.jpg - 12,000 kb
+.lock
+--db.lock - 0,000 kb
+.png
+--copyMe.png - 9,136 kb
+.pptx
+--03. Streams.pptx - 3859,130 kb
+.sln
+--Streams.sln - 4,467 kb
+.suo
+--.suo - 145,500 kb
